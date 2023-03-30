@@ -1,0 +1,16 @@
+Makefile
+.qmake.stash
+.uuid
+obj
+moc
+rcc
+lib
+bin
+plugins
+fontconfig
+*.swp
+qskinny.pro.user
+*.o
+*.log
+html
+tags

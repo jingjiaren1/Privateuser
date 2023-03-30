@@ -1,0 +1,13 @@
+/*!
+    \defgroup Core Core
+    \defgroup Graphic Graphic
+    \defgroup Framework Framework
+    \defgroup Animation Animation
+    \defgroup Themeing Themeing
+    \defgroup Controls Controls
+    \defgroup Container Container
+    \defgroup Layouts Layouts
+    \defgroup Dialogs Dialogs
+    \defgroup Skinlets Skinlets
+    \defgroup Scenegraph Scenegraph
+ */
