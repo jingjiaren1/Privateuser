@@ -19,6 +19,7 @@ static QskAbstractButton* qskCheckedSibling( const QskAbstractButton* button )
     if ( parentItem == nullptr )
         return nullptr;
 
+
     const auto siblings = parentItem->childItems();
     for ( auto sibling : siblings )
     {
